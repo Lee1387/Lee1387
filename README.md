@@ -13,7 +13,7 @@ I like working across the full stack and building larger projects that can evolv
 - 🛠️ I care a lot about code structure, naming, maintainability and keeping responsibilities clear
 - 🧪 I prefer building incrementally, testing meaningful behaviour and validating each feature properly
 - 🔍 I enjoy debugging and understanding the actual cause of a problem rather than patching around symptoms
-- 📚 I'm always looking to improve how I design and structure software, not just learn more frameworks
+- 📚 I'm always looking to improve how I design and structure software, not just add more frameworks to the list
 
 ## Tech
 
@@ -32,10 +32,13 @@ I like working across the full stack and building larger projects that can evolv
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Tools & frontend
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
